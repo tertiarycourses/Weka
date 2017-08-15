@@ -6,6 +6,7 @@ These are the exercise files used for [Solving Problems with Machine Learning](h
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/solving-problems-with-machine-learning.html
+https://www.tertiarycourses.com.my/solving-problems-with-machine-learning-malaysia.html
 
 <p><strong>Module 1 - Introduction to Machine Learning</strong></p>
 <ul>
